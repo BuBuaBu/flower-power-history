@@ -1,0 +1,19 @@
+{
+  "name": "flower-power-history",
+  "version": "0.1.0",
+  "description": "Lib to decode history file from a Parrot Flower Power device",
+  "main": "index.js",
+  "keywords": [
+    "Parrot",
+    "Flower",
+    "Power",
+    "Flower Power",
+    "History"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:BuBuaBu/flower-power-history.git"
+  },
+  "author": "Vivien HENRIET",
+  "license": "MIT"
+}
